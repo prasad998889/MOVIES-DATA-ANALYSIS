@@ -85,5 +85,11 @@ The **Sakila Database** is a sample dataset provided by MySQL, designed to repli
 - Maintain **inventory balance** for high-demand titles  
 - Reward **high-performing staff** to boost motivation  
 
+Aspiring Data Analyst | Excel | Power BI | SQL | Python
+📧 mudhirajp328@gmail.com
+🔗 LinkedIn
+🔗 GitHub
+
+⭐ If you find this project useful, please give it a star! ⭐
 
 
